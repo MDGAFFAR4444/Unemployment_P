@@ -2,7 +2,7 @@
 .content{
     min-height: 100vh;
     width: 100%;
-    /* background-color: blueviolet; */
+    background-color: blueviolet;
     display: flex;
     position: relative;
     padding: 1vh;
